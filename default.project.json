@@ -1,0 +1,16 @@
+{
+  "name": "Odds",
+  "tree": {
+    "$className": "DataModel",
+    "ReplicatedStorage": {
+      "Odds": {
+        "$path": "Odds.lua"
+      }
+    },
+    "ServerScriptService": {
+      "OddsTest": {
+        "$path": "OddsTest.server.lua"
+      }
+    }
+  }
+}
